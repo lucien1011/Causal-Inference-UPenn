@@ -2,3 +2,6 @@
 
 ### Week 3
 Estimate causal effects with matching on confounders, matching propensity score, outcome analysis. Illustrated with data analysis examples in R.
+
+### Week 4
+Estimate causal effects with IPTW. Illustrated with data analysis examples in R.
